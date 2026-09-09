@@ -52,7 +52,7 @@ local Library = {
     UseBlur = false;
     BlurSize = 15;
 
-    KeybindMode = 'All';
+    KeybindMode = 'Toggled';
 
     NotifyConfig = {
         Alignment = 'Left';
